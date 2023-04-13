@@ -1,0 +1,48 @@
+.c-4{
+    background-color: rgb(58, 63, 63);
+    height: 600px;
+    max-width: 300px;
+    border-radius: 15px;
+}
+.search{
+    height: 50px;
+   border-radius: 15px;
+    background-color: rgb(58, 63, 63);
+    margin-right: 100px;
+    margin-left: 100px;
+    margin-bottom: 50px;
+    padding: 10px 10px;
+    color: aliceblue;
+    font-size: larger;
+    text-align: right;
+}
+.box-1{
+    height: 200px;
+    max-width: 200px;
+    background-color: rgb(58, 63, 63);
+    border-radius: 15px;
+    margin: 20px;
+}
+.full-box{
+    background-color: rgb(58, 63, 63);
+    height: 200px;
+    margin: 25px 0px ;
+    border-radius: 15px;
+}
+.github{
+    background-color:rgb(58, 63, 63) ;
+    height: 50px;
+    margin-bottom: 20px;
+    
+}
+.img{
+    padding: 10px;
+    font-size: larger;
+    color: aliceblue;
+}
+.TEXT{
+    margin-top: 9px;
+    margin-left: 100px;
+    font-size: larger;
+    color: aliceblue;
+}
